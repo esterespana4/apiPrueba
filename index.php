@@ -8,6 +8,7 @@ and open the template in the editor.
     <head>
         <meta charset="UTF-8">
         <title>Esta pagina pertenece Ester</title>
+		<title>Esta pagina pertenece Nathaly - Modificacion </title>
     </head>
     <body>
         <?php
